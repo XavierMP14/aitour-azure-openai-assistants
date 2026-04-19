@@ -75,3 +75,4 @@ Here is a log of the changes made to this file:
 | 2024.09.16 | Added Change log, Additional language section with Spanish and Portuguese PowerPoint slides |
 | 2024.12.06| Updated from Azure Assistants API to Azure AI Agent Service |
 | 2025.01.29| Updated to reflect last content refresh|
+| 2025.04.08| Added Korean PowerPoint slides |
